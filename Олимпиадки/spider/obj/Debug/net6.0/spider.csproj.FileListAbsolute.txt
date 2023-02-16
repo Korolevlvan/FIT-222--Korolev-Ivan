@@ -1,0 +1,15 @@
+D:\2-й симестр\Олимпиадки\spider\bin\Debug\net6.0\spider.exe
+D:\2-й симестр\Олимпиадки\spider\bin\Debug\net6.0\spider.deps.json
+D:\2-й симестр\Олимпиадки\spider\bin\Debug\net6.0\spider.runtimeconfig.json
+D:\2-й симестр\Олимпиадки\spider\bin\Debug\net6.0\spider.dll
+D:\2-й симестр\Олимпиадки\spider\bin\Debug\net6.0\spider.pdb
+D:\2-й симестр\Олимпиадки\spider\obj\Debug\net6.0\spider.csproj.AssemblyReference.cache
+D:\2-й симестр\Олимпиадки\spider\obj\Debug\net6.0\spider.GeneratedMSBuildEditorConfig.editorconfig
+D:\2-й симестр\Олимпиадки\spider\obj\Debug\net6.0\spider.AssemblyInfoInputs.cache
+D:\2-й симестр\Олимпиадки\spider\obj\Debug\net6.0\spider.AssemblyInfo.cs
+D:\2-й симестр\Олимпиадки\spider\obj\Debug\net6.0\spider.csproj.CoreCompileInputs.cache
+D:\2-й симестр\Олимпиадки\spider\obj\Debug\net6.0\spider.dll
+D:\2-й симестр\Олимпиадки\spider\obj\Debug\net6.0\refint\spider.dll
+D:\2-й симестр\Олимпиадки\spider\obj\Debug\net6.0\spider.pdb
+D:\2-й симестр\Олимпиадки\spider\obj\Debug\net6.0\spider.genruntimeconfig.cache
+D:\2-й симестр\Олимпиадки\spider\obj\Debug\net6.0\ref\spider.dll

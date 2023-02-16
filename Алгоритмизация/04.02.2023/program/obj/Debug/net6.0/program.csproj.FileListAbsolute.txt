@@ -1,0 +1,15 @@
+D:\2-й симестр\Алгоритмизация\04.02.2023\program\bin\Debug\net6.0\program.exe
+D:\2-й симестр\Алгоритмизация\04.02.2023\program\bin\Debug\net6.0\program.deps.json
+D:\2-й симестр\Алгоритмизация\04.02.2023\program\bin\Debug\net6.0\program.runtimeconfig.json
+D:\2-й симестр\Алгоритмизация\04.02.2023\program\bin\Debug\net6.0\program.dll
+D:\2-й симестр\Алгоритмизация\04.02.2023\program\bin\Debug\net6.0\program.pdb
+D:\2-й симестр\Алгоритмизация\04.02.2023\program\obj\Debug\net6.0\program.csproj.AssemblyReference.cache
+D:\2-й симестр\Алгоритмизация\04.02.2023\program\obj\Debug\net6.0\program.GeneratedMSBuildEditorConfig.editorconfig
+D:\2-й симестр\Алгоритмизация\04.02.2023\program\obj\Debug\net6.0\program.AssemblyInfoInputs.cache
+D:\2-й симестр\Алгоритмизация\04.02.2023\program\obj\Debug\net6.0\program.AssemblyInfo.cs
+D:\2-й симестр\Алгоритмизация\04.02.2023\program\obj\Debug\net6.0\program.csproj.CoreCompileInputs.cache
+D:\2-й симестр\Алгоритмизация\04.02.2023\program\obj\Debug\net6.0\program.dll
+D:\2-й симестр\Алгоритмизация\04.02.2023\program\obj\Debug\net6.0\refint\program.dll
+D:\2-й симестр\Алгоритмизация\04.02.2023\program\obj\Debug\net6.0\program.pdb
+D:\2-й симестр\Алгоритмизация\04.02.2023\program\obj\Debug\net6.0\program.genruntimeconfig.cache
+D:\2-й симестр\Алгоритмизация\04.02.2023\program\obj\Debug\net6.0\ref\program.dll

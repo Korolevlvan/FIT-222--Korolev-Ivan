@@ -1,0 +1,15 @@
+D:\2-й симестр\Олимпиадки\ube\bin\Debug\net6.0\ube.exe
+D:\2-й симестр\Олимпиадки\ube\bin\Debug\net6.0\ube.deps.json
+D:\2-й симестр\Олимпиадки\ube\bin\Debug\net6.0\ube.runtimeconfig.json
+D:\2-й симестр\Олимпиадки\ube\bin\Debug\net6.0\ube.dll
+D:\2-й симестр\Олимпиадки\ube\bin\Debug\net6.0\ube.pdb
+D:\2-й симестр\Олимпиадки\ube\obj\Debug\net6.0\ube.csproj.AssemblyReference.cache
+D:\2-й симестр\Олимпиадки\ube\obj\Debug\net6.0\ube.GeneratedMSBuildEditorConfig.editorconfig
+D:\2-й симестр\Олимпиадки\ube\obj\Debug\net6.0\ube.AssemblyInfoInputs.cache
+D:\2-й симестр\Олимпиадки\ube\obj\Debug\net6.0\ube.AssemblyInfo.cs
+D:\2-й симестр\Олимпиадки\ube\obj\Debug\net6.0\ube.csproj.CoreCompileInputs.cache
+D:\2-й симестр\Олимпиадки\ube\obj\Debug\net6.0\ube.dll
+D:\2-й симестр\Олимпиадки\ube\obj\Debug\net6.0\refint\ube.dll
+D:\2-й симестр\Олимпиадки\ube\obj\Debug\net6.0\ube.pdb
+D:\2-й симестр\Олимпиадки\ube\obj\Debug\net6.0\ube.genruntimeconfig.cache
+D:\2-й симестр\Олимпиадки\ube\obj\Debug\net6.0\ref\ube.dll
