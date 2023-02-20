@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\2-й симестр\\Прога\\FIT-222--Korolev-Ivan\\Олимпиадки\\spider\\spider.csproj",
-      "projectName": "spider",
-      "projectPath": "D:\\2-й симестр\\Прога\\FIT-222--Korolev-Ivan\\Олимпиадки\\spider\\spider.csproj",
+      "projectUniqueName": "D:\\2-й симестр\\Прога\\FIT-222--Korolev-Ivan\\Алгоритмизация\\18.02.2023(Институт)\\18.02.2023(Институт).csproj",
+      "projectName": "18.02.2023(Институт)",
+      "projectPath": "D:\\2-й симестр\\Прога\\FIT-222--Korolev-Ivan\\Алгоритмизация\\18.02.2023(Институт)\\18.02.2023(Институт).csproj",
       "packagesPath": "C:\\Users\\vanko\\.nuget\\packages\\",
-      "outputPath": "D:\\2-й симестр\\Прога\\FIT-222--Korolev-Ivan\\Олимпиадки\\spider\\obj\\",
+      "outputPath": "D:\\2-й симестр\\Прога\\FIT-222--Korolev-Ivan\\Алгоритмизация\\18.02.2023(Институт)\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vanko\\AppData\\Roaming\\NuGet\\NuGet.Config"
