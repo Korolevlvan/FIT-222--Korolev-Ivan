@@ -1,0 +1,15 @@
+D:\2-й симестр\Прога\FIT-222--Korolev-Ivan\Алгоритмизация\18.02.2023(Институт)\bin\Debug\net6.0\18.02.2023(Институт).exe
+D:\2-й симестр\Прога\FIT-222--Korolev-Ivan\Алгоритмизация\18.02.2023(Институт)\bin\Debug\net6.0\18.02.2023(Институт).deps.json
+D:\2-й симестр\Прога\FIT-222--Korolev-Ivan\Алгоритмизация\18.02.2023(Институт)\bin\Debug\net6.0\18.02.2023(Институт).runtimeconfig.json
+D:\2-й симестр\Прога\FIT-222--Korolev-Ivan\Алгоритмизация\18.02.2023(Институт)\bin\Debug\net6.0\18.02.2023(Институт).dll
+D:\2-й симестр\Прога\FIT-222--Korolev-Ivan\Алгоритмизация\18.02.2023(Институт)\bin\Debug\net6.0\18.02.2023(Институт).pdb
+D:\2-й симестр\Прога\FIT-222--Korolev-Ivan\Алгоритмизация\18.02.2023(Институт)\obj\Debug\net6.0\18.02.2023(Институт).csproj.AssemblyReference.cache
+D:\2-й симестр\Прога\FIT-222--Korolev-Ivan\Алгоритмизация\18.02.2023(Институт)\obj\Debug\net6.0\18.02.2023(Институт).GeneratedMSBuildEditorConfig.editorconfig
+D:\2-й симестр\Прога\FIT-222--Korolev-Ivan\Алгоритмизация\18.02.2023(Институт)\obj\Debug\net6.0\18.02.2023(Институт).AssemblyInfoInputs.cache
+D:\2-й симестр\Прога\FIT-222--Korolev-Ivan\Алгоритмизация\18.02.2023(Институт)\obj\Debug\net6.0\18.02.2023(Институт).AssemblyInfo.cs
+D:\2-й симестр\Прога\FIT-222--Korolev-Ivan\Алгоритмизация\18.02.2023(Институт)\obj\Debug\net6.0\18.02.2023(Институт).csproj.CoreCompileInputs.cache
+D:\2-й симестр\Прога\FIT-222--Korolev-Ivan\Алгоритмизация\18.02.2023(Институт)\obj\Debug\net6.0\18.02.2023(Институт).dll
+D:\2-й симестр\Прога\FIT-222--Korolev-Ivan\Алгоритмизация\18.02.2023(Институт)\obj\Debug\net6.0\refint\18.02.2023(Институт).dll
+D:\2-й симестр\Прога\FIT-222--Korolev-Ivan\Алгоритмизация\18.02.2023(Институт)\obj\Debug\net6.0\18.02.2023(Институт).pdb
+D:\2-й симестр\Прога\FIT-222--Korolev-Ivan\Алгоритмизация\18.02.2023(Институт)\obj\Debug\net6.0\18.02.2023(Институт).genruntimeconfig.cache
+D:\2-й симестр\Прога\FIT-222--Korolev-Ivan\Алгоритмизация\18.02.2023(Институт)\obj\Debug\net6.0\ref\18.02.2023(Институт).dll
