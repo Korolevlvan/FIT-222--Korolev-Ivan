@@ -1,0 +1,15 @@
+D:\2-й симестр\Прога\FIT-222--Korolev-Ivan\Алгоритмизация\RGR\bin\Debug\net6.0\RGR.exe
+D:\2-й симестр\Прога\FIT-222--Korolev-Ivan\Алгоритмизация\RGR\bin\Debug\net6.0\RGR.deps.json
+D:\2-й симестр\Прога\FIT-222--Korolev-Ivan\Алгоритмизация\RGR\bin\Debug\net6.0\RGR.runtimeconfig.json
+D:\2-й симестр\Прога\FIT-222--Korolev-Ivan\Алгоритмизация\RGR\bin\Debug\net6.0\RGR.dll
+D:\2-й симестр\Прога\FIT-222--Korolev-Ivan\Алгоритмизация\RGR\bin\Debug\net6.0\RGR.pdb
+D:\2-й симестр\Прога\FIT-222--Korolev-Ivan\Алгоритмизация\RGR\obj\Debug\net6.0\RGR.csproj.AssemblyReference.cache
+D:\2-й симестр\Прога\FIT-222--Korolev-Ivan\Алгоритмизация\RGR\obj\Debug\net6.0\RGR.GeneratedMSBuildEditorConfig.editorconfig
+D:\2-й симестр\Прога\FIT-222--Korolev-Ivan\Алгоритмизация\RGR\obj\Debug\net6.0\RGR.AssemblyInfoInputs.cache
+D:\2-й симестр\Прога\FIT-222--Korolev-Ivan\Алгоритмизация\RGR\obj\Debug\net6.0\RGR.AssemblyInfo.cs
+D:\2-й симестр\Прога\FIT-222--Korolev-Ivan\Алгоритмизация\RGR\obj\Debug\net6.0\RGR.csproj.CoreCompileInputs.cache
+D:\2-й симестр\Прога\FIT-222--Korolev-Ivan\Алгоритмизация\RGR\obj\Debug\net6.0\RGR.dll
+D:\2-й симестр\Прога\FIT-222--Korolev-Ivan\Алгоритмизация\RGR\obj\Debug\net6.0\refint\RGR.dll
+D:\2-й симестр\Прога\FIT-222--Korolev-Ivan\Алгоритмизация\RGR\obj\Debug\net6.0\RGR.pdb
+D:\2-й симестр\Прога\FIT-222--Korolev-Ivan\Алгоритмизация\RGR\obj\Debug\net6.0\RGR.genruntimeconfig.cache
+D:\2-й симестр\Прога\FIT-222--Korolev-Ivan\Алгоритмизация\RGR\obj\Debug\net6.0\ref\RGR.dll

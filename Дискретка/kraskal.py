@@ -14,19 +14,24 @@ def SortEdge(a, b):
                 cc = j
         b.append(cc)
 
-def Fcicl(a, b):
-    c = b[1]
-    while(1):
+def Fcicl(a, b, c):
+    if c == b[0]:
+        return False
+    else:
         flag = True
         for i in a:
-            if(i[0] == c):
-                flag = False
-                if i[1] == b[0]:
-                    return False
-                c = i[1]
-        if flag == True:
-            return True
-f = open("test2.txt", "r")
+            if c == i[0]:
+                cash1 = a.copy()
+                cash1.pop(i)
+                if not(Fcicl(cash1, b, i[1])):
+                    flag = False
+            elif c == i[1]:
+                cash2 = a.copy()
+                cash2.pop(i)
+                if not(Fcicl(cash2, b, i[0])):
+                    flag = False
+    return flag
+f = open("kraskal.txt", "r")
 n = int(f.readline())
 b = {}
 for i in range(n):
@@ -38,20 +43,18 @@ edge = []
 SortEdge(b, edge)
 ansg = {}
 nodes = set([])
-
 nodes.add(edge[0])
 ansg[edge[0]] = b[edge[0]]
 for i in edge[1:]:
-    if Fcicl(ansg, i) and not((i[0] in nodes) and (i[1] in nodes)):
+    if Fcicl(ansg, i, i[1]) and not(len(ansg) == 7):
         nodes.add(i[0])
         nodes.add(i[1])
         ansg[i[0], i[1]] = b[i[0], i[1]]
 #отрисовка
-print(ansg)
 for i in ansg:
     G.add_nodes_from(i)
     G.add_edge(i[0], i[1])
 pos = nx.spring_layout(G)
 nx.draw(G, pos, with_labels = True)
-nx.draw_networkx_edge_labels(G,pos, edge_labels = , font_color='red')
+nx.draw_networkx_edge_labels(G,pos, edge_labels = ansg, font_color='red')
 plt.show()
