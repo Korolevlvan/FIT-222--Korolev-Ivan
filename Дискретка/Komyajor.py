@@ -9,6 +9,9 @@ for i in range(M):
     a[int(b[0])-1][int(b[1])-1] = int(b[2])
     a[int(b[1])-1][int(b[0])-1] = int(b[2])
 way = 0
+hh = [[3, 1],[4,2],[2,0],[1,1],[1,0]]
+for i in hh:
+    print(a[i[0]][i[1]])
 while len(a) != 1:
     minw = 0
     for string in a:
@@ -51,5 +54,6 @@ while len(a) != 1:
     a.pop(inol)
     for i in range(len(a)):
         a[i].pop(jnol)
+    print(minw)
     way += minw
 print(f"минимульный путь:{way}")
